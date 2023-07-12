@@ -5,3 +5,9 @@
 
 ## About
 This is a weather detection system through which the user can view the current weather of any place all around the world!
+
+## Tech Stacks
+- HTML
+- CSS
+- JS
+- OpenWeatherAPI
